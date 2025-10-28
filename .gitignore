@@ -1,0 +1,21 @@
+# Compiled files
+*.o
+*.out
+a3
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Results (optional - comment out if you want to track results)
+# results/data/*.csv
+# results/plots/*.png
+
+# Temporary files
+*.tmp
